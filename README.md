@@ -21,12 +21,3 @@ Painter's Name (string)
 
 Painter’s School: Spanish, Flemish, Italian, French, Dutch, German, English
 
-📊 Output Example
-markdown
-Copy
-Edit
-Catalog #   Title           Painter        School
---------------------------------------------------
-001         Starry Night    Van Gogh       Dutch
-002         Guernica        Picasso        Spanish
-...
